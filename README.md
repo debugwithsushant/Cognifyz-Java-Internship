@@ -32,5 +32,3 @@ through practical, hands-on tasks divided into multiple levels.
 ## Purpose
 This repository serves as proof of work and learning achieved
 during the internship and demonstrates practical Java development skills.
-
-## Pawar Sushant H.
