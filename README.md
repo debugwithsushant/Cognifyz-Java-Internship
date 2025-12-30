@@ -1,9 +1,7 @@
 # Cognifyz-Java-Internship
 Java Development Internship tasks completed at Cognifyz Technologies, covering core Java concepts, problem-solving, file handling, multithreading, and application development.
 
-🚀 Internship Project | Java Development | Cognifyz Technologies
-
-# Cognifyz Java Development Internship
+# 🚀 Internship Project | Java Development | Cognifyz Technologies
 
 This repository contains all the tasks completed during the
 Java Development Internship at Cognifyz Technologies.
